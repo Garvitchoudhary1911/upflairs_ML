@@ -1,0 +1,10 @@
+image type
+ 1. true color(RGB)
+cmyk-cyan meganta yellow key
+hcv
+yellow-red+green
+m=r+b
+c=g+b
+
+2.grey scale
+3.binary
